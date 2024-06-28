@@ -1,0 +1,20 @@
+.board-row{
+  display:  flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 400px;
+  display: center;
+}
+.main-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  width: 100vw;
+}
+.board-container{
+  margin: 20px;
+}
+.restart-button{
+  background-color: blue;
+}
